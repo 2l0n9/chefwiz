@@ -20,7 +20,8 @@ CSS layout – có sử dụng Flexbox hoặc Grid.
 
 Hiệu ứng JavaScript – ví dụ: slideshow, menu ẩn/hiện, form validation, v.v.
 
-Đề tài thực hiện: Sửa lại giao diện website Phòng Quản lý Đào tạo của trường Đại học Kinh tế Quốc dân (NEU).
+
+Đề tài thực hiện: Web đặt dịch vụ nấu ăn hộ.
 
 Các thành viên nhóm:
 
