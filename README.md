@@ -21,7 +21,7 @@ CSS layout – có sử dụng Flexbox hoặc Grid.
 Hiệu ứng JavaScript – ví dụ: slideshow, menu ẩn/hiện, form validation, v.v.
 
 
-Đề tài thực hiện: Web đặt dịch vụ nấu ăn hộ.
+Đề tài thực hiện: Web đặt đồ ăn healthy theo yêu cầu.
 
 Các thành viên nhóm:
 
