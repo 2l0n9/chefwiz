@@ -20,9 +20,8 @@ body {
   overflow-x: hidden;
 }
 
-/* ********************** */
+
 /* GENERAL REUSABLE COMPONENTS */
-/* ********************** */
 
 .container {
   max-width: 120rem;
@@ -91,7 +90,6 @@ body {
 .btn,
 .btn:link,
 .btn:visited {
-  /* color: #fff; */
   font-size: 2rem;
   font-weight: 600;
   padding: 1.6rem 3.2rem;

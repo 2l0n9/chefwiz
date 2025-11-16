@@ -69,24 +69,7 @@ observer.observe(sectionHeroEl);
 // ////////////////////////////////////////////////////////////////////// Screenshot animation
 
 const stepImgBox = document.querySelectorAll(".step-img-box");
-// console.log(stepImgBox);
 
-// const observer2 = new IntersectionObserver(
-//   function (entries) {
-//     const ent = entries[0];
-//     console.log(ent);
-//     if (ent.isIntersecting) {
-//       stepImgBox[0].classList.add("animate-img");
-//     } else {
-//       stepImgBox[0].classList.remove("animate-img");
-//     }
-//   },
-//   {
-//     root: null,
-//     threshold: 0,
-//   }
-// );
-// observer2.observe(stepImgBox[0]);
 stepImgBox.forEach(function (el) {
   const observer = new IntersectionObserver(
     function (entries) {
